@@ -19,7 +19,7 @@ import {Button} from 'ant-design-vue'
   </main>
 </template>
 
-<style scoped>
+<style lang="less" scoped>
 header {
   line-height: 1.5;
 }
